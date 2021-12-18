@@ -24,8 +24,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/mobilefirst-solution-for-order-summary-component-uElUxS_9l]
-- Live Site URL: [https://bitterrsweetj.github.io/order-summary-component/]
+- Solution URL: [here](https://www.frontendmentor.io/solutions/mobilefirst-solution-for-order-summary-component-uElUxS_9l)
+- Live Site URL: [here](https://bitterrsweetj.github.io/order-summary-component/)
 
 
 ### Built with
